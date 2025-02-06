@@ -7,7 +7,7 @@ body {
 h1 {
     background-color: #A847F3;
     border-radius: 52px;
-    margin: 3px;
+    margin: 15px 3px 15px 3px;
     padding: 8px;
     text-align: center;
     color: white;
@@ -75,4 +75,13 @@ h3 {
 
 .podval {
     width: 30px;
+}
+
+a {
+    background-color: #6352ff;
+    text-decoration: none;
+    color: #43e24b;
+    font-size: 40px;
+    margin: 10px 180px 10px 600px;
+    padding: 5px;
 }
